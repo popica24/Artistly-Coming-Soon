@@ -39,7 +39,7 @@ const mailJsConfig = {
   templateId: 'your-template-id',
   userId: 'your-user-id',
 };
-
+```
 # Toast Notifications
 
 Customize toast notifications in the `src/components/Toast.js` file to match the desired style and behavior.
