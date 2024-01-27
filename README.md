@@ -23,10 +23,10 @@ The main purpose of this landing page is to showcase and highlight the key featu
 - Node.js and npm installed on your machine.
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/your-username/awesome-react-landing-page.git`
-2. Navigate to the project directory: `cd awesome-react-landing-page`
+1. Clone the repository: `git clone https://github.com/popica24/Artistly-Coming-Soon.git`
+2. Navigate to the project directory: `cd Artistly-Coming-Soon`
 3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
+4. Start the development server: `npm run dev`
 
 ## Configuration
 
