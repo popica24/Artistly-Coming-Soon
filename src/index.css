@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Laila:wght@400;500&display=swap");
+
+.font-laila {
+  font-family: Laila;
+}
+.cta-shadow {
+  box-shadow: 4px 5px 0px -1px #000000;
+}
+.cta-shadow:hover {
+  box-shadow: none;
+}
